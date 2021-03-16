@@ -1,1 +1,1 @@
-# spring-boot-first-app
+# spring-boot
