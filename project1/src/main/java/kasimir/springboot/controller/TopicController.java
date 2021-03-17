@@ -9,7 +9,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import kasimir.springboot.been.Topic;
+import kasimir.springboot.bean.Topic;
 import kasimir.springboot.service.TopicService;
 
 @RestController

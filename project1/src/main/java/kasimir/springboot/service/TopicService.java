@@ -5,7 +5,7 @@ import java.util.List;
 
 import org.springframework.stereotype.Service;
 
-import kasimir.springboot.been.Topic;
+import kasimir.springboot.bean.Topic;
 
 @Service
 public class TopicService {

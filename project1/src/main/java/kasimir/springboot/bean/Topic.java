@@ -1,4 +1,4 @@
-package kasimir.springboot.been;
+package kasimir.springboot.bean;
 
 public class Topic {
 	
